@@ -93,9 +93,15 @@
                     sirasiyla ustteki iki komut veya
     -git pull --> fetch & merge ====> komutu kullanilir
 
+ ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+                                                      3. DERS (16.08.2022)
 
 
-                        CİHAZ KONTROLLLLLLLLLLLLLLLLLLLLL
-                        CİHAZ KONTROLLLLLLLLLLLLLLLLLLLLL222222222222
+
+
+
+
+
 
 
